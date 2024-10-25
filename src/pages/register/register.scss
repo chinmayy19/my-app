@@ -17,7 +17,7 @@
   
       .left {
         flex: 1;
-        background: linear-gradient(rgba(48, 45, 56, 0.5), rgba(29, 24, 40, 0.5)),
+        background: linear-gradient(rgba(48, 45, 56, 0.5), rgba(6, 6, 6, 0.5)),
           url("https://images.pexels.com/photos/697244/pexels-photo-697244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
             center;
         background-size: cover;
@@ -77,6 +77,7 @@
             width: 50%;
             padding: 10px;
             border: none;
+            gap: 10px;
             background-color: #938eef;
             color: white;
             font-weight: bold;
