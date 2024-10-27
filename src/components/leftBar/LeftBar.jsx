@@ -1,8 +1,8 @@
-import "./leftbar.scss"
+import "./leftBar.scss"
 
 const LeftBar = () => {
   return (
-    <div className='leftbar'>LeftBar</div>
+    <div className='leftBar'>LeftBar</div>
   )
 }
 
